@@ -19,12 +19,15 @@ To Run the Project:
 
     1. Clone the project
         git clone <URL>
+<! Please provide complete URL of the repository>
 
     2. Go to project directory
         cd cypress-assigment
+
 
     3. Open Cypress
         npx cypress open
 
     4. Run test in Cypress --  After Cypress opens, click on the test file to run it.
+
 
