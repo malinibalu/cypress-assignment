@@ -46,6 +46,7 @@ To open the Cypress test runner in an interactive mode, which allows you to sele
 This command will open the Cypress UI where you can choose and run specific tests.
 
 **Running Test Cases with Cypress:**
+
 Click on the Scaffold File in the project directory.
 Open the browser when prompted by Cypress.
 Select "Okay, I got it" to continue.
