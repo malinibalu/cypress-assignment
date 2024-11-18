@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/1-eOuY1AWVKhOYboNdUuFxPAVRSWkh5o1JitOxuN_
 # Cypress Automation:
 
 ## Overview
-This repository contains Cypress tests to automate and validate the functionality of [ https://lager157.com/sv-se/]. Follow the instructions below to set up and run the tests on your local machine.
+This repository contains Cypress tests to automate and validate the functionality of ['https://petstore.octoperf.com/actions/Catalog.action']. Follow the instructions below to set up and run the tests on your local machine.
 
 ## Prerequisites
 Ensure the following tools are installed on your system:
